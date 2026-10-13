@@ -64,7 +64,7 @@
 ### A. NotebookLM 用户（3 步）
 
 1. 新建 Notebook，上传书籍 PDF（**一个 Notebook 只放一本书**，避免来源串味）。
-2. 左侧打开 **Configure chat（对话设置）**，把 `prompts/notebooklm-configure-chat.md` 全文粘贴进去并保存。
+2. 打开 **Configure chat**，把 `prompts/notebooklm-configure-chat.md` 全文粘贴进去并保存。
 3. 新开一条对话，输入「开始讲解」即可。后续：
 
    - 想看下一章 → 回复「继续」
