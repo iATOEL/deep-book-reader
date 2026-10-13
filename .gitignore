@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# 技能运行产物（含用户自己的书籍文本与研读文档，不宜入库）
+/deep-reading/
+/dist/
+
+# 打包产物
+*.zip
+
+# 编辑器与系统
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 项目本地安装的第三方技能与 IDE 数据（技能源码请通过 skills/ 目录入库）
+.codebuddy/
+
+# 原始草稿：内容已整理进 prompts/notebooklm-configure-chat.md，按需保留
+/yomu.md
